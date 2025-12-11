@@ -165,7 +165,6 @@ slurm*.out
 *.csv
 
 # Images
-*.png
 *.svg
 *.gif
 *.jpg
