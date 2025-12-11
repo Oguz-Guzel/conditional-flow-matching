@@ -6,17 +6,10 @@ We use the tabular data generation jupyter notebook located in `examples/tabular
 
 The generated distributions include $p_T$, $\eta$ and $\phi$ of the leptons, as well as the invariant mass of the dilepton system.
 
-<p align="center">
-<img src="examples/tabular/feature_distributions.png" width="600"/>
-</p>
+![examples/tabular/feature_distributions.png](./examples/tabular/feature_distributions.png)
 
-<p align="center">
-<img src="examples/tabular/mll_category_distribution.png" width="600"/>
-</p>
+![examples/tabular/mll_category_distribution.png](./examples/tabular/mll_category_distribution.png)
 
 The invariant mass calculated from the generated distribution:
 
-<p align="center">
-<img src="examples/tabular/mll_from_leptons_distribution.png" width="600"/>
-</p>
-
+![examples/tabular/mll_from_leptons_distribution.png](./examples/tabular/mll_from_leptons_distribution.png)
